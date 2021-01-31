@@ -2,6 +2,10 @@
 
 Simple drift bottle demo using SVG SMIL Animation
 
+## Have a peek!
+
+[svg-drift-bottle](https://chrysocolla.github.io/svg-drift-bottle/index.html)
+
 ## What is this?
 
 I was told to create a minisite to celebrate the lunar sub-new year, which you get blessings from the new media of our school.
@@ -18,15 +22,17 @@ for they are super bitchy about fromats of SVG attributes.
 
 I was a bit of rushing time, but the page needs to fill and spread the entire viewport.
 
-But there are so many of them! So I did what I have to do.
+But there are so many of them! I spent most of the time on making transitions to wired screen ratios and browsers.
 
-__Dynamic font size! ID selector all over the place! Quirky flex column-reverse!__
+So I did what I had to do.
 
-~~Yay, why not? Once you touched the evil part of web when creating amateur pages, you can never got back.~~
+__Dynamic font size! Default serif font! Experimental CSS features! ID selector all over the place! Quirky usage of flex!__
+
+~~Yay, why not? Once you have touched the chaotic coding style when creating amateur web pages, you can never go back.~~
 
 ## Glossary
 
-The words used in the modal panel are selected from paragraphs of an essay full of gibberish.
+The texts used in the modal panel are selected from paragraphs of an essay full of gibberish.
 
 I found it the perfect painkiller whenever I feel headache for generating Chinese Lorem Ipsum.
 
