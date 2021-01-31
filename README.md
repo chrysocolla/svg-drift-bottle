@@ -26,7 +26,7 @@ But there are so many of them! I spent most of the time on making transitions to
 
 So I did what I had to do.
 
-__Dynamic font size! Default serif font! Experimental CSS features! ID selector all over the place! Quirky usage of flex!__
+__Dynamic font size! Default serif font! (Well it looks great in Chinese, so...) Experimental CSS features! ID selector all over the place! Quirky usage of flex!__
 
 ~~Yay, why not? Once you have touched the chaotic coding style when creating amateur web pages, you can never go back.~~
 
